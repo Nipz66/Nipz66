@@ -69,6 +69,12 @@
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
 
+## 🚀 Updates
+
+- **April 2025**: Started exploring React and GoLang development.
+- **March 2025**: Launched a Link Shortener website using React and Node.js.
+
+
 
  **<h3 align="left">Support Me</h3>**
 
