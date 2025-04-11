@@ -46,10 +46,33 @@
 <p align="left">
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=nipz66&theme=react&hide_title=false&layout=compact&langs_count=6&hide_progress=false&card_width=400" alt="GitHub top-langs Card" />
 
+**<h3 align="left">📈 My Contribution Graph</h3>**
+
+[![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=nipz66&theme=react-dark&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+**<h3 align="left">🚀 My Workflow</h3>**
+
+- 🔁 Agile Development & SCRUM
+- 🔍 Test-Driven Development (TDD)
+- 🔧 Clean Code & SOLID Principles
+- 📁 Version Control with Git & GitHub
+- ⚙️ CI/CD with GitHub Actions
+- 🧪 Unit Testing (JUnit, Mockito)
+
+**<h3 align="left">🛠 Tools I Use</h3>**
+
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
 
  **<h3 align="left">Support Me</h3>**
 
 <p align="left"><a href="https://paypal.me/anupamaalahakoon66@gmail.com" target="_blank"><img src="https://img.shields.io/badge/PayPal-00457C?style=flat&logo=paypal&logoColor=white" height="36" style="margin-right: 4px"></a></p>
+
+
 <!---
 Nipz66/Nipz66 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
