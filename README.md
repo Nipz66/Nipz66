@@ -19,9 +19,9 @@
 
 **<h3 align="left">Rapid Fire</h3>**
 
-- 💼 I'm currently working on: **💻 Developing a Railway Parcel Transport platform using SpringBoot and Angular.😍**
-- 🌱 I'm currently learning: **📚 Flutter**
-- 💬 Ask me about: **💡 JavaScript, Angular, Springboot, MySql, and RESTful APIs**
+- 💼 I'm currently working on: **💻 Developing a LinkShortner Website React and Node.js use.😍**
+- 🌱 I'm currently learning: **📚 Flutter** GoLang**
+- 💬 Ask me about: **💡 JavaScript, Angular, Spring Boot, MySQL, and RESTful APIs**
 - ⚡ Fun fact: **🎢 I love experimenting with new programming languages—currently learning Rust for fun!**
 - 📝 Blog: **<a href="https://medium.com/@nipunanupa66" target="_blank">https://medium.com/@nipunanupa66</a>**
 
@@ -46,10 +46,6 @@
 <p align="left">
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=nipz66&theme=react&hide_title=false&layout=compact&langs_count=6&hide_progress=false&card_width=400" alt="GitHub top-langs Card" />
 
-**<h3 align="left">📈 My Contribution Graph</h3>**
-
-[![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=nipz66&theme=react-dark&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
 **<h3 align="left">🚀 My Workflow</h3>**
 
 - 🔁 Agile Development & SCRUM
@@ -66,6 +62,12 @@
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+## 🧠 Exploring AI & 2025 Trends
+![LangChain](https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+
 
 
  **<h3 align="left">Support Me</h3>**
